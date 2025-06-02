@@ -1,4 +1,4 @@
-25601070739751721
+25612948025095437
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -523,13 +523,6 @@ Cherry MX keyswitch, ISO Enter, plate mount, http://cherryamericas.com/wp-conten
 Cherry MX keyswitch ISO enter plate
 0
 2
-2
-Button_Switch_Keyboard
-SW_Gateron_LowProfile_HotSwap_PTH_footprint
-Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
-switch, low_profile, hot_swap
-0
-6
 2
 Button_Switch_Keyboard
 SW_Matias_1.00u
@@ -2428,20 +2421,6 @@ SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
 0
 3
 3
-Button_Switch_THT
-Untitled
-
-
-0
-0
-0
-Button_Switch_THT
-gateron_lowprofile_hotswap_footprint
-Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
-switch, low_profile, hot_swap
-0
-4
-2
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -67884,6 +67863,13 @@ Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimpor
 Yellow 5381 Series LED
 0
 2
+2
+Library
+SW_Gateron_LowProfile_HotSwap_PTH_footprint
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile, hot_swap
+0
+6
 2
 Module
 A20_OLINUXINO_LIME2
