@@ -332,7 +332,7 @@
       "plot": "pdb_output_v2/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../with_usb_wired_v1.step",
       "svg": "",
       "vrml": ""
     },
